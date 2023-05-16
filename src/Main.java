@@ -25,17 +25,17 @@ public class Main {
 //
 //    System.out.println("Hello world!");
 
-      Animal[] animals = new Animal[7];
-      animals[0] = new Animal();
-      animals[1] = new Mammalia();
-      animals[2] = new Bird();
-      animals[3] = new Whale();
-      animals[4] = new Bat();
-      animals[5] = new Sparrow();
-      animals[6] = new Penquin();
-
-      for(int i = 0; i < animals.length; i++) {
-        animals[i].showMe();
-      }
+//      Animal[] animals = new Animal[7];
+//      animals[0] = new Animal();
+//      animals[1] = new Mammalia();
+//      animals[2] = new Bird();
+//      animals[3] = new Whale();
+//      animals[4] = new Bat();
+//      animals[5] = new Sparrow();
+//      animals[6] = new Penquin();
+//
+//      for(int i = 0; i < animals.length; i++) {
+//        animals[i].showMe();
+//      }
   }
 }
